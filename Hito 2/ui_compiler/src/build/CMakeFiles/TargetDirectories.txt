@@ -1,0 +1,3 @@
+/compilers/ui_compiler/src/build/CMakeFiles/prog.dir
+/compilers/ui_compiler/src/build/CMakeFiles/edit_cache.dir
+/compilers/ui_compiler/src/build/CMakeFiles/rebuild_cache.dir
