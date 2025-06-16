@@ -1,1 +1,0 @@
-/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/prog.dir/link.d CMakeFiles/prog.dir/Main.cpp.o CMakeFiles/prog.dir/UIGrammarLexer.cpp.o CMakeFiles/prog.dir/UIGrammarParser.cpp.o CMakeFiles/prog.dir/UIGrammarBaseVisitor.cpp.o CMakeFiles/prog.dir/UIGrammarVisitor.cpp.o -o prog   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lantlr4-runtime

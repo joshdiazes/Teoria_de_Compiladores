@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/compilers/ui_compiler/src/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
