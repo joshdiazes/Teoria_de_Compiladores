@@ -1,8 +1,0 @@
-Button {
-  text: "Submit",
-  onClick: "submitForm()"
-}
-
-Panel {
-  text: "Main content"
-}
