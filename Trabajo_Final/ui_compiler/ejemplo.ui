@@ -1,0 +1,19 @@
+Panel {
+  id: "main",
+  width: 800,
+  height: 600
+  Button {
+    text: "Enviar",
+    onClick: "handleSubmit",
+    width: 100,
+    enabled: true
+  }
+  Label {
+    text: "Ingrese su nombre:",
+    color: "black"
+  }
+  TextField {
+    id: "nameInput",
+    placeholder: "Nombre completo"
+  }
+}
